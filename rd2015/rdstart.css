@@ -1,0 +1,1256 @@
+div#main20{
+     width:100%;
+}
+
+/*
+body {
+    background-color:transparent;
+    color: #000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0;
+}
+*/
+body {
+    overflow-x: hidden;
+    background-color:transparent;
+    height:101%;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+#commcom021 {
+    color: #fff;
+    float: none;
+    font-size: 13px;
+    height: 20px;
+    margin: -57px 0 0;
+    padding: 51px 40px 0 0; 
+    text-align: right;
+}
+#main20 {
+    background-color: #d2dc9e;
+    background-color:transparent;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 800px;
+}
+html { 
+  background-color: #bcc621;
+  background-image:url(hintergrund_home.jpg);
+  background-repeat:no-repeat;
+  background-position:right bottom;
+  background-attachment:fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame1 p.bodytext a span.name-of-person{
+    /* padding: 18px 10px 20px 10px;*/
+    padding: 18px 10px 20px 10px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame1 p.bodytext a sub{
+   padding: 0 50px 0 50px;
+   width:40px;
+   font-size: 24px;
+line-height: 29px;
+
+}
+#main1 {
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-bottom:3px solid #bfdd2f;
+    height:120px;
+}
+#mainnav {
+    display:block;
+    margin:46px 0 0 20px;
+}
+#main2 {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #fff;
+    border-image: none;
+    border-style: solid;
+    border-width: 0px 0 0;
+    text-align: center;
+    width: 100%;
+    
+    background-image:none;
+    background-color:transparent;
+}
+div#nav0 {
+    display:none;
+}
+
+
+
+#header {
+    /*background: #fff url("logop.png") no-repeat  0 44px;*/
+    
+     background-image: url(header_1024px.jpg);
+     background-position:-3px 0;
+
+    height: 120px;
+    text-align: center;
+    width:1024px;
+    margin:auto;
+}
+#commcom011 {
+    min-height: 100%;
+    min-height: 700px;
+    padding-bottom: 0px;
+    padding-left:45px;
+    margin:auto;
+    width:1024px;
+background-color:transparent;
+    width:1024px;
+    background-image:none;
+}
+#commcom0111 {
+    padding-top: 0;
+    width:570px;
+    overflow:visible;
+}
+#commcom01111 {
+    padding: 70px 0 0 0px;
+}
+div#commcom0s{
+    border-right: 0 none;
+    float: left;
+    height: 100%;
+    width: 190px;
+    margin-top:150px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header{
+    width:1000px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.cdiv {
+    clear:left;
+    display:block;
+    min-height:40px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header.csc-header-n1 h1.csc-firstHeader{
+    font-size:39px;
+    font-weight:normal;
+    margin-bottom:70px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 {
+    clear:left;
+    display:block;
+    min-height:100px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 a{
+    font-size:24px;
+    font-weight:bold; 
+    line-height:33px;
+    color:#fff;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 a:hover{
+    text-decoration:none;
+}
+
+div.csc-frame.csc-frame-frame1 p {         
+    padding: 20px 10px; 
+}
+div.csc-frame.csc-frame-frame1 a {
+text-decoration:none;
+color:#333;
+font-size:24px;
+line-height:29px;
+}
+div.csc-frame.csc-frame-frame1 a.detail {
+padding-top:17px;
+display:block;
+}
+div.csc-frame.csc-frame-frame1 a.btn-block {
+padding-top:17px;
+display:block;
+}
+div.csc-frame.csc-frame-frame1 a:hover {
+text-decoration:none;
+color:#000;
+}
+div#commcom0s{
+    border-right: 0 none;
+    float: left;
+    height: 100%;
+    width: 204px;
+    margin-top:150px;
+}
+div.csc-frame.csc-frame-frame1 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #666;
+    color: #666;
+    display: block;
+    float: left;
+    font-size: 18px;
+    height: 100px;
+    margin: 0 15px 20px 0;
+    opacity: 0.6;
+    text-align: center;
+    width: 170px;
+    
+  display: table-cell;
+  vertical-align: middle;
+}
+div#commcom0s div.csc-frame.csc-frame-frame1 {
+    background-color: transparent;
+    background-image: url("bubble_home_1024px.png");
+    background-repeat: no-repeat;
+    background-position:3px 0;
+    border-radius: 0;
+    border-width: 0;
+    box-shadow: 0 0 0 #333;
+    color: #fff;
+    font-size: 25px;      
+    font-weight: bold;
+    height: 160px;
+    line-height: 26px; 
+    opacity: 0.7;
+    padding: 42px 0 0;   
+    text-align: center;
+    width: 155px; 
+}
+div#commcom0s div.csc-frame.csc-frame-frame1 a{
+color:#fff;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 {
+    margin: 0 0 0 3px;     
+}
+
+
+@media (min-width:768px) and (max-width:1023px){
+#header {
+    background: #fff url("768/header_768px.jpg") no-repeat scroll -5px 0 / 768px 120px;
+    height: 120px;
+    margin: auto; 
+    text-align: center; 
+    width: 768px; 
+}
+#mainnav {
+    display: block;
+    margin: 44px 0 0 15px; 
+}
+#commcom0111 {
+    overflow: visible;
+    padding-top: 0;
+    width: 570px;
+    min-height:550px;  
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header.csc-header-n1 h1.csc-firstHeader {
+    font-size: 35px;
+    font-weight: normal;
+    margin-bottom: 70px;
+    width:120%;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header {
+    width: 700px;
+    margin-left:-150px; 
+}
+div#commcom0s div.csc-frame.csc-frame-frame1 {
+    background-color: transparent;
+    background-image: url("bubble_home_1024px.png");
+    background-repeat: no-repeat;
+    background-size:150px;
+    background-position:30px 0;
+    border-radius: 0;
+    border-width: 0;
+    box-shadow: 0 0 0 #333;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    height: 160px;
+    line-height: 27px;
+    opacity: 0.7;
+    padding: 27px 0 0; 
+    text-align: center;
+    width: 178px;
+}
+div#commcom0s div.csc-frame.csc-frame-frame1 p {
+    padding: 12px 0 0 25px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2  {
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 30px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 a {
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 30px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.cdiv {
+    clear: left;
+    display: block;
+    min-height: 30px;
+}
+#commcom011 {
+    padding-left:0px; 
+} 
+}
+
+@media (min-width:320px) and (max-width:479px){
+#header {
+    background: #fff url("320/header_320px.jpg") no-repeat scroll 0 0;
+    height: 88px;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+#main1 {
+    height: 88px;
+    width: 100%;
+}
+div#commcom0s {
+    display:none;
+}
+#commcom011 {
+    background-color: transparent;
+    background-image: none;
+    margin: auto;
+    min-height: 500px; 
+    padding-bottom: 0;
+    padding-left:0px;
+    width: 320px;
+}
+#main2 {
+    background-color: transparent;
+    background-image: none;
+    border: 0 solid #fff;
+    text-align: center;
+/*
+  background: url(hintergrund_home.jpg) no-repeat left top fixed;  
+  -webkit-background-size: 320px;
+  -moz-background-size: 100%;
+  -o-background-size: 320px;
+  background-size: 320px;
+*/
+    background-image: url("hintergrund_home_1023.jpg");
+    background-position: -350px 0;
+    background-repeat: no-repeat;
+    background-size: 620px 500px;
+        background-size:cover;
+    border: 0 solid #fff;
+    text-align: center;  
+width: 100%;
+}
+#main2 {
+  background-color: #bcc621;
+  background-image:url(hintergrund_home.jpg);
+  background-repeat:no-repeat;
+  background-position:right bottom;
+  background-attachment:fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  
+}
+
+#main3 {
+    border: 0 solid #fff;
+    
+    clear: both;
+    display: block;
+    height: 50px;
+    margin: 40px 0 0;
+    position: relative;
+    text-align: center;
+    width: 320px; 
+}
+div#main20 {
+    width:280px;
+    margin: 0 auto 0 auto;
+}
+}
+@media (min-width:479px) and (max-width:767px){
+#commcom021 {
+    color: #fff;
+    float: none;
+    font-size: 13px;
+    height: 20px;
+    margin: -57px 0 0;
+    padding: 1px 40px 0 0; 
+    text-align: right;
+}
+#main1 {
+    height: 70px;
+    width: 100%;  
+}
+#header {
+    background: #fff url("480/header_480px.jpg") no-repeat scroll 0 0;
+    height: 70px; 
+    margin: auto;
+    text-align: center;
+    width: 480px; 
+}
+#mainnav {
+    display: none;
+    margin: 44px 0 0 15px; 
+}
+div#commcom0s {
+    display:none;
+}
+#commcom011 {
+    background-color: transparent;
+    background-image: none;
+    margin: auto;
+    min-height: 500px; 
+    padding-bottom: 0;
+    width: 480px;
+}
+#main2 {
+    background-color: transparent;
+    background-image: none;
+    border: 0 solid #fff;
+    text-align: center;
+    width: 480px; 
+    
+     /*
+  background: url(hintergrund_home.jpg) no-repeat left top fixed;  
+  -webkit-background-size: 320px;
+  -moz-background-size: 100%;
+  -o-background-size: 320px;
+  background-size: 320px;
+  */
+}
+}
+
+
+
+@media (min-width:320px) and (max-width:767px){
+#commcom021 {
+    color: #fff;
+    float: none;
+    font-size: 13px;
+    height: 20px;
+    margin: -57px 0 0;
+    padding: 1px 40px 0 0; 
+    text-align: right; 
+}
+html { 
+  background: none; 
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header.csc-header-n1 h1.csc-firstHeader {
+    font-size: 17px;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+#mainnav {
+    display: none;
+    margin: 44px 0 0 15px; 
+}
+h1 {
+    color: #fff;
+    font-size: 17px;
+    line-height: 19px;
+    margin: 0 0 9px;
+    padding: 0;
+}
+#commcom01111 {
+    padding: 13px 0 0;
+}
+#commcom0111 {
+    overflow: visible;
+    padding-top: 0;
+    width: 100%;
+    margin:0 0 0 0px;   
+}
+div.csc-frame.csc-frame-frame1 {
+    background-color: #fff;
+    border-radius:5px;
+    box-shadow: 2px 2px 2px #666;
+    color: #666;
+    display: table-cell;
+    float: left;
+    font-size: 16px;
+    height: auto;
+    margin: 0 0px 5px 20px;  
+    opacity: 0.9;  
+    text-align: center;
+    vertical-align: middle;
+    width: 240px;  
+}
+div.csc-frame.csc-frame-frame1 p {
+    padding: 5px 10px;
+}
+div.csc-frame.csc-frame-frame1 a {
+    color: #333;
+    font-size: 16px; 
+    line-height: 18px; 
+    text-decoration: none;
+}
+div.csc-frame.csc-frame-frame1 a.detail {
+    display: block;
+    padding-top: 0px; 
+}
+div.csc-frame.csc-frame-frame1 a.btn-block {
+padding-top:0px;
+display:block;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2  {
+    color: #fff;
+    font-size: 17px; 
+    font-weight: bold;
+    line-height: 22px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 a {
+    color: #fff;
+    font-size: 17px; 
+    font-weight: bold;
+    line-height: 22px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.cdiv {
+    clear: left;
+    display: block;
+    min-height: 10px;  
+}
+}
+
+@media not all, (min-width: 320px) and (max-width: 479px) and (min-resolution: 192dpi) {
+#header {
+    background: #fff url("320/header_320px_retina.jpg") no-repeat scroll 0 0;
+    height: 88px;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    
+    background-position: -20px 0;
+    background-repeat: no-repeat;
+    background-size: 320px 90px;
+}
+}
+@media not all, (min-width: 320px) and (max-width: 479px) and (-webkit-min-device-pixel-ratio: 2) {
+#header {
+    background: #fff url("320/header_320px_retina.jpg") no-repeat scroll 0 0;
+    height: 88px;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    
+    background-position: 0px 0;
+    background-repeat: no-repeat;
+    background-size: 320px 90px;
+}
+}
+@media not all, (min-width: 480px) and (max-width: 767px) and (min-resolution: 192dpi) {
+#header {
+    background: #fff url("480/header_480px_retina.jpg") no-repeat scroll 0 0;
+    height: 70px;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    
+    background-position: 0px 0;
+    background-repeat: no-repeat;
+    background-size: 480px 68px; 
+}
+}
+@media not all, (min-width: 480px) and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 2) {
+#header {
+    background: #fff url("480/header_480px_retina.jpg") no-repeat scroll 0 0;
+    height: 70px; 
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    
+    background-position: 0px 0;
+    background-repeat: no-repeat;
+    background-size: 480px 68px;
+}
+}
+@media not all, (min-width: 768px) and (max-width: 1023px) and (min-resolution: 192dpi) {
+#header {
+    background: #fff url("768/header_768px_retina.jpg") no-repeat scroll -3px 0 / 768px 120px;
+    height: 120px;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+}
+@media not all, (min-width: 768px) and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2) {
+#header {
+    background: #fff url("768/header_768px_retina.jpg") no-repeat scroll -3px 0 / 768px 120px;
+    height: 120px;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+}
+
+@media not all, (min-width: 1024px) and (max-width: 5000px) and (min-resolution: 192dpi) {
+#header {
+    background: #fff url("header_1024px_retina.jpg") no-repeat scroll 0 0;
+    height: 120px; 
+    margin: auto;
+    text-align: center;
+    width: 1024px;
+    
+    background-position: -3px 0;
+    background-repeat: no-repeat;
+    background-size: 1024px 120px;  
+}
+}
+@media not all, (min-width: 1024px) and (max-width: 5000px) and (-webkit-min-device-pixel-ratio: 2) {
+#header {
+    background: #fff url("header_1024px_retina.jpg") no-repeat scroll 0 0;
+    height: 120px; 
+    margin: auto;
+    text-align: center;
+    width: 1024px;
+    
+    background-position: -3px 0;
+    background-repeat: no-repeat;
+    background-size: 1024px 120px; 
+}
+}
+
+@media not all, (min-width: 480px) and (max-width: 767px) {
+html{   
+/*background: rgba(0, 0, 0, 0) none no-repeat fixed right ;*/
+background: rgba(0, 0, 0, 0) url("hintergrund_home_768.jpg") no-repeat fixed right bottom / cover ;
+background-size:800px 500px;
+/*background-size:cover;*/
+background-position:-700px -300px;
+background-position:-200px 0px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.cdiv {
+    clear: left;
+    display: block;
+    min-height: 10px;
+    line-height:1px;
+    display:block;
+}
+#main2 {
+       
+    /*background: rgba(0, 0, 0, 0) url("hintergrund_home.jpg") no-repeat fixed right bottom / cover;*/
+
+    background-repeat:no-repeat;
+    background-position:0 0; 
+    background-size:570px 420px;   
+    border: 0 solid #fff;
+    text-align: center;
+    width: 100%; 
+    height:200px;
+    overflow:hidden;  
+    min-height:360px; 
+}
+div#main20 {
+    width: 480px; 
+}
+div.csc-frame.csc-frame-frame1 {
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px #666;
+    color: #666;
+    display: table-cell;
+    float: left;
+    font-size: 12px;
+    line-height:15px;  
+    height: 50px; 
+    margin: 0 10px 12px 0; 
+    opacity: 0.8; 
+    text-align: center;
+    vertical-align: middle;
+    width: 90px;
+}
+div.csc-frame.csc-frame-frame1 a {
+    color: #333;
+    font-size: 12px;
+    line-height: 15px; 
+    text-decoration: none;
+}
+div#commcom0s {
+     display:block;
+    border-right: 0 none;
+    float: left;
+    height: 100%;
+    margin-top: 55px;   
+    width: 110px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header.csc-header-n1 h1.csc-firstHeader {
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 20px;
+    margin-left:0px;
+    width:330px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header {
+    width: 330px;
+}
+div#commcom0s div.csc-frame.csc-frame-frame1 {
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 15px;
+    text-align: center;
+}
+#commcom0111 {
+    overflow: visible;
+    padding-top: 0;
+    width: 320px;
+}
+#commcom01111 {
+    padding: 20px 0 0; 
+}
+div#commcom0s div.csc-frame.csc-frame-frame1 {
+    background-color: transparent;
+    background-image: url("bubble_home_1024px.png");
+    background-repeat: no-repeat;
+    background-size:85px;
+    background-position:8px 0; 
+    
+    border-radius: 0;
+    border-width: 0;
+    box-shadow: 0 0 0 #333;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    height: 160px;
+    line-height: 15px;
+    opacity: 0.7;
+    padding: 19px 0 0;   
+    text-align: center;
+    width: 92px; 
+}
+div#commcom0s div.csc-frame.csc-frame-frame1 p {
+    padding: 5px 0 0 7px; 
+}
+div.csc-frame.csc-frame-frame1 p {
+    padding: 9px 10px; 
+}
+div.csc-frame.csc-frame-frame1 a.detail {
+    display: block;
+    padding-top: 9px; 
+}
+div.csc-frame.csc-frame-frame1 a.btn-block {
+padding-top:9px;
+display:block;
+}
+/*
+div.csc-frame.csc-frame-frame1 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #666;
+    color: #666;
+    display: table-cell;
+    float: left;
+    font-size: 12px;
+    height: 50px;
+    line-height: 15px;
+    margin: 0 15px 20px 0;
+    opacity: 0.6;
+    text-align: center;
+    vertical-align: middle;
+    width: 90px;
+    overflow:hidden;
+}
+div.csc-frame.csc-frame-frame1 p {
+    padding: 0px 0px 9px 0px;
+    width:20px;
+}
+div.csc-frame.csc-frame-frame1 a {
+    display:block;
+}
+*/
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2  {
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 17px; 
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 a {
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 17px; 
+}
+#commcom011 {
+    background-color: transparent;
+    background-image: none;
+    margin: auto;
+    min-height: 400px; 
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 {
+    clear: left;
+    display: block;
+    min-height: 70px;
+}
+#commcom011 {
+    min-height: 320px;
+    padding-left:0;
+}
+#commcom0111 {
+    float: left;
+    margin: 0;
+    min-height: 280px; 
+    overflow: hidden;
+    padding: 0;
+    width: 328px; 
+}
+#main3 {
+    border: 0 solid #fff;
+    
+    clear: both;
+    display: block;
+    height: 50px;
+    margin: 40px 0 0;
+    position: relative;
+    text-align: center;
+    width: 480px;
+}
+}
+#main2 {
+
+      
+}
+#main3 {
+    bottom: 0;
+    height: 100px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    margin:0 0 0 0;
+}
+#commcom021 {
+    color: #fff;
+    float: none;
+    font-size: 13px;
+    height: 20px;
+    margin: -27px 0 0;
+    padding: 51px 40px 0 0;
+    text-align: right;
+}
+
+@media not all, (min-width: 590px) and (max-width: 767px) {
+html{   
+/*background: rgba(0, 0, 0, 0) none no-repeat fixed right ;*/
+background: rgba(0, 0, 0, 0) url("hintergrund_home_768.jpg") no-repeat fixed right bottom / cover ;
+background-size:900px 700px; 
+/*background-size:cover;*/
+background-position:-600px -200px;
+background-position:-100px 0px;
+}
+}
+@media  (min-width:768px) and (max-width:1023px) {
+html {
+    background-attachment: fixed;
+    background-color: #bcc621;
+    background-image: url("hintergrund_home_1023.jpg");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  #main3 {
+ bottom:0;    
+    height: 100px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+#commcom02 {
+    margin: 0 0 0 250px;  
+}
+}
+@media  (min-width:480px) and (max-width:767px) {
+  #main3 {
+ top: 350px; 
+    height: 100px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}   
+}
+@media  (min-width:320px) and (max-width:479px) {
+  #main3 { 
+ top: 500px;     
+    height: 100px;   
+    left: 0;
+    position: absolute;
+    width: 100%;
+}   
+}
+@media  (min-width:1024px)  and ( max-height: 800px ){
+     #main3 { 
+top: 600px;
+    height: 100px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+}
+
+@media  (min-width:1024px)  and ( max-height: 1200px ){
+html {
+    background-attachment: fixed;
+    background-color: #bcc621;
+    background-image: url("hintergrund_home_1023.jpg");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+}
+
+/*testsetup start*/
+@media (min-width:768px) and (max-width:1023px){
+#header {
+    background: #fff url("768/header_768px.jpg") no-repeat scroll -5px 0;
+    height: 120px;
+    margin: auto;
+    text-align: center;
+    width: 768px;
+}
+#commcom011 {
+    background-color: transparent;
+    background-image: none;
+    margin: auto;
+    min-height: 700px;
+    padding-bottom: 0;
+    padding-left: 9px;
+    width: 768px;
+}
+div#commcom0s {
+    border-right: 0 none;
+    float: left;
+    height: 500px;
+    margin-top: 100px;
+    width: 204px;
+}
+#commcom0111 {
+    overflow: visible;
+    padding-top: 0;
+    width: 520px;
+    float:left;
+    margin: 0 0 0 35px;
+}
+#mainnav {
+    display: block;
+    margin: 43px 0 0 20px;
+}
+#mainnav {
+    background-color: transparent;
+    float: left;
+    height: 34px;
+    margin: 45px 0 0;
+    width: 530px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header.csc-header-n1 h1.csc-firstHeader {
+    font-size:36px; 
+    font-weight: normal;
+    margin-bottom: 40px;
+    margin-top:-30px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header {
+    margin-left: -170px; 
+    width: 700px;
+}
+div#commcom0s div.csc-frame.csc-frame-frame1 {
+    background-color: transparent;
+    background-image: url("bubble_home_1024px.png");
+    background-position: 30px 0;
+    background-repeat: no-repeat;
+    background-size: 130px auto;
+    border-radius: 0;
+    border-width: 0;
+    box-shadow: 0 0 0 #333;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    height: 160px;
+    line-height: 22px;
+    opacity: 0.7;
+    padding: 25px 0 0;
+    text-align: center;
+    width: 158px;
+}
+div.csc-frame.csc-frame-frame1 {
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px #666;
+    color: #666;
+    display: table-cell;
+    float: left;
+    font-size: 15px;
+    height: 90px;
+    margin: 0 17px 22px 0;
+    opacity: 0.6;
+    text-align: center;
+    vertical-align: middle;
+    width: 140px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2  {
+    color: #fff;
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 26px;
+     margin-top: -20px !important;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 a {
+    color: #fff;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 35px;
+}
+div.csc-frame.csc-frame-frame1 a {
+    color: #333;
+    font-size: 19px;
+    line-height: 23px;
+    text-decoration: none;
+}
+div.csc-frame.csc-frame-frame1 p {
+    padding: 22px 10px;
+}
+}
+@media (min-width:1024px) and (max-width:1199px){
+#header {
+    /*background-image: url("header_1024px.jpg");*/
+    background-repeat:no-repeat;
+    background-position: -40px 0; 
+    height: 120px;
+    margin: auto;
+    width: 1024px;
+}
+#commcom011 {
+    background-color: transparent;
+    background-image: none;
+    margin: auto;
+    min-height: 700px;
+    padding-bottom: 0;
+    padding-left: 9px;
+    width: 1024px;
+}
+div#commcom0s {
+    border-right: 0 none;
+    float: left;
+    height: 500px;
+    margin-top: 150px;
+    width: 204px;
+}
+#commcom0111 {
+    overflow: visible;
+    padding-top: 0;
+    width: 640px;
+    float:left;
+    margin: 0 0 0 35px;
+}
+#mainnav {
+    display: block;
+    margin: 43px 0 0 0px;
+}
+#mainnav {
+    background-color: transparent;
+    float: left;
+    height: 34px;
+    margin: 40px 0 0;
+    width: 600px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header.csc-header-n1 h1.csc-firstHeader {
+    font-size: 47px; 
+    font-weight: normal;
+    margin-bottom: 70px;
+}
+div.csc-frame.csc-frame-frame1 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #666;
+    color: #666;
+    display: table-cell;
+    float: left;
+    font-size: 18px;
+    height: 110px;
+    margin: 0 17px 22px 0;
+    opacity: 0.6;
+    text-align: center;
+    vertical-align: middle;
+    width: 190px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2  {
+    color: #fff;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 35px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 a {
+    color: #fff;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 35px;
+}
+div.csc-frame.csc-frame-frame1 a {
+    color: #333;
+    font-size: 27px;
+    line-height: 31px;
+    text-decoration: none;
+}
+div.csc-frame.csc-frame-frame1 p {
+    padding: 22px 10px;
+}
+}
+@media (min-width:1200px) and (max-width:1439px){
+#header {
+    /*background-image: url("header_1024px.jpg");*/
+    background-repeat:no-repeat;
+    background-position: -50px 0; 
+    height: 120px;
+    margin: auto;
+    width: 1170px;
+}
+#commcom011 {
+    background-color: transparent;
+    background-image: none;
+    margin: auto;
+    min-height: 700px;
+    padding-bottom: 0;
+    padding-left: 9px;
+    width: 1200px;
+}
+div#commcom0s {
+    border-right: 0 none;
+    float: left;
+    height: 500px;
+    margin-top: 150px;
+    width: 204px;
+}
+#commcom0111 {
+    overflow: visible;
+    padding-top: 0;
+    width: 640px;
+    float:left;
+    margin: 0 0 0 35px;
+}
+#mainnav {
+    display: block;
+    margin: 43px 0 0 20px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header.csc-header-n1 h1.csc-firstHeader {
+    font-size: 47px; 
+    font-weight: normal;
+    margin-bottom: 70px;
+}
+div.csc-frame.csc-frame-frame1 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #666;
+    color: #666;
+    display: table-cell;
+    float: left;
+    font-size: 18px;
+    height: 110px;
+    margin: 0 17px 22px 0;
+    opacity: 0.6;
+    text-align: center;
+    vertical-align: middle;
+    width: 190px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2  {
+    color: #fff;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 35px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 a {
+    color: #fff;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 35px;
+}
+div.csc-frame.csc-frame-frame1 a {
+    color: #333;
+    font-size: 27px;
+    line-height: 31px;
+    text-decoration: none;
+}
+div.csc-frame.csc-frame-frame1 p {
+    padding: 22px 10px;
+}
+}
+@media (min-width:1440px) and (max-width:3549px){
+#header {
+    /*background-image: url("header_1024px.jpg");*/
+    background-repeat:no-repeat;
+    background-position: -50px 0; 
+    height: 120px;
+    margin: auto;
+    width: 1410px;
+}
+#commcom011 {
+    background-color: transparent;
+    background-image: none;
+    margin: auto;
+    min-height: 700px;
+    padding-bottom: 0;
+    padding-left: 9px;
+    width: 1410px;
+}
+div#commcom0s {
+    border-right: 0 none;
+    float: left;
+    height: 500px;
+    margin-top: 150px;
+    width: 204px;
+}
+#commcom0111 {
+    overflow: visible;
+    padding-top: 0;
+    width: 640px;
+    float:left;
+    margin: 0 0 0 35px;
+}
+#mainnav {
+    display: block;
+    margin: 43px 0 0 20px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-header.csc-header-n1 h1.csc-firstHeader {
+    font-size: 50px; 
+    font-weight: normal;
+    margin-bottom: 70px;
+}
+div.csc-frame.csc-frame-frame1 {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #666;
+    color: #666;
+    display: table-cell;
+    float: left;
+    font-size: 18px;
+    height: 110px;
+    margin: 0 17px 22px 0;
+    opacity: 0.6;
+    text-align: center;
+    vertical-align: middle;
+    width: 190px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2  {
+    color: #fff;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 35px;
+}
+html body div#main2 div#main20 div#commcom011 div#commcom0111 div#commcom01111 div.csc-frame.csc-frame-frame2 a {
+    color: #fff;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 35px;
+}
+div.csc-frame.csc-frame-frame1 a {
+    color: #333;
+    font-size: 27px;
+    line-height: 31px;
+    text-decoration: none;
+}
+div.csc-frame.csc-frame-frame1 p {
+    padding: 22px 10px;
+}
+}
